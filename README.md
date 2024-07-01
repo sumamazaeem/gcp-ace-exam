@@ -18,7 +18,7 @@ This repository contains a curated list of resources that I found invaluable whi
 ### 2. Cloud Academy Platform
 - [Google Associate Cloud Engineer Exam Preparation](https://cloudacademy.com/learning-paths/google-associate-cloud-engineer-exam-preparation-844/)
 
-### 3. GitHub Repository
+### 3. GitHub Repository(DiTectRev)
 - [Google Cloud Platform (GCP) Associate Cloud Engineer Practice Tests and Exams](https://github.com/Ditectrev/Google-Cloud-Platform-GCP-Associate-Cloud-Engineer-Practice-Tests-Exams-Questions-Answers)
 
 ### 4. Official GCP Resources
@@ -31,7 +31,7 @@ This repository contains a curated list of resources that I found invaluable whi
 - [GCP Associate Engineer Flashcard Set](https://quizlet.com/434286726/gcp-assoc-engineeer-flash-card-set-2-flash-cards/)
 
 ### 7. TutorialDojo
-- Overlaps significantly with content in the DiTectRev GitHub repository https://github.com/Ditectrev/Google-Cloud-Platform-GCP-Associate-Cloud-Engineer-Practice-Tests-Exams-Questions-Answers listed above.
+- Overlaps significantly with content in the [DiTectRev GitHub repository] (https://github.com/Ditectrev/Google-Cloud-Platform-GCP-Associate-Cloud-Engineer-Practice-Tests-Exams-Questions-Answers) listed above.
 
 ### 8. Google Cloud Skills Boost
 - [Essential Google Cloud Infrastructure: Foundation](https://www.cloudskillsboost.google/course_templates/648)
