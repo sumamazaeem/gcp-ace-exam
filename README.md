@@ -25,7 +25,7 @@ This repository contains a curated list of resources that I found invaluable whi
 - [GCP Certification Learning Path](https://cloud.google.com/learn/certification/cloud-engineer)
 
 ### 5. ChatGPT4 Discussions
-- [Please find my conversation with GPT4 here](<./conversations with chatgpt4/sumama's-conversation-with-chatgpt-4.md>)
+- [Please find my conversation with GPT4 here](./sumama-zaeem-conversation-with-chatgpt-4.md)
 
 ### 6. Quizlet Flashcards
 - [GCP Associate Engineer Flashcard Set](https://quizlet.com/434286726/gcp-assoc-engineeer-flash-card-set-2-flash-cards/)
